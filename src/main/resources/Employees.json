@@ -1,0 +1,112 @@
+[
+  {
+    "firstName" : "Bob",
+    "lastName" : "Martin",
+    "initial" : "R",
+    "gender" : "MALE",
+    "dateOfBirth" : "1988-05-01",
+    "dateOfJoining" : "2014-06-04",
+    "grade" : "SG8",
+    "salary" : 120000
+  },
+  {
+    "firstName" : "James",
+    "lastName" : "Matthew",
+    "initial" : "S",
+    "gender" : "MALE",
+    "dateOfBirth" : "1990-05-01",
+    "dateOfJoining" : "2015-04-01",
+    "grade" : "SG7",
+    "salary": 100000
+  },
+  {
+    "firstName" : "Sharmila",
+    "lastName" : "",
+    "initial" : "D",
+    "gender" : "FEMALE",
+    "dateOfBirth" : "1995-05-01",
+    "dateOfJoining" : "2019-01-22",
+    "grade" : "SG6",
+    "salary" : 80000
+  },
+  {
+    "firstName" : "Christine",
+    "lastName" : "Sophia",
+    "initial" : "G",
+    "gender" : "FEMALE",
+    "dateOfBirth" : "1992-05-01",
+    "dateOfJoining" : "2018-03-14",
+    "grade" : "SG7",
+    "salary": 90000
+  },
+  {
+    "firstName" : "Martin",
+    "lastName" : "Luther",
+    "initial" : "A",
+    "gender" : "MALE",
+    "dateOfBirth" : "1985-05-01",
+    "dateOfJoining" : "2011-05-28",
+    "grade" : "LL6",
+    "salary": 150000
+  },
+  {
+    "firstName" : "Sofia",
+    "lastName" : "Blessy",
+    "initial" : "B",
+    "gender" : "FEMALE",
+    "dateOfBirth" : "1980-05-01",
+    "dateOfJoining" : "2008-06-04",
+    "grade" : "LL5",
+    "salary": 200000
+  },
+  {
+    "firstName" : "Mustafa",
+    "lastName" : "Mohammed",
+    "initial" : "H",
+    "gender" : "MALE",
+    "dateOfBirth" : "1992-05-01",
+    "dateOfJoining" : "2018-06-04",
+    "grade" : "SG6",
+    "salary": 60000
+  },
+  {
+    "firstName" : "Ganesh",
+    "lastName" : "Moorthy",
+    "initial" : "S",
+    "gender" : "MALE",
+    "dateOfBirth" : "1989-03-01",
+    "dateOfJoining" : "2016-06-04",
+    "grade" : "SG8",
+    "salary": 95000
+  },
+  {
+    "firstName" : "Anitha",
+    "lastName" : "Meenakshi",
+    "initial" : "D",
+    "gender" : "FEMALE",
+    "dateOfBirth" : "1991-05-01",
+    "dateOfJoining" : "2017-03-24",
+    "grade" : "SG7",
+    "salary": 85000
+  },
+  {
+    "firstName" : "Bob",
+    "lastName" : "Martin",
+    "initial" : "D",
+    "gender" : "MALE",
+    "dateOfBirth" : "1978-05-01",
+    "dateOfJoining" : "2004-06-04",
+    "grade" : "LL4",
+    "salary": 250000
+  },
+  {
+    "firstName" : "Anitha",
+    "lastName" : "",
+    "initial" : "S",
+    "gender" : "FEMALE",
+    "dateOfBirth" : "1995-05-01",
+    "dateOfJoining" : "2020-06-04",
+    "grade" : "SG6",
+    "salary": 70000
+  }
+]
