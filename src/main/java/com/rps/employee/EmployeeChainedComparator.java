@@ -8,7 +8,7 @@ import java.util.List;
 
 public class EmployeeChainedComparator implements Comparator<Employee> {
 
-    private List<Comparator<Employee>> listComparators;
+    private final List<Comparator<Employee>> listComparators;
 
     @SafeVarargs
     public EmployeeChainedComparator(Comparator<Employee>... comparators) {

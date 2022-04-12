@@ -20,11 +20,6 @@ public class Employee {
     private String grade;
     private int salary;
 
-    public Employee(String firstName, Gender gender) {
-        this.firstName = firstName;
-        this.gender = gender;
-    }
-
     @Override
     public String toString() {
         return format("%s %s %s", firstName, lastName, initial);

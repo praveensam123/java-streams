@@ -16,7 +16,7 @@ import static org.apache.commons.lang3.StringUtils.isNotBlank;
 
 public class EmployeeService {
 
-    public static final String NO_EMPLOYEE_EXIST = "No employee exist!";
+    private static final String NO_EMPLOYEE_EXIST = "No employee exist!";
     private final EmployeeRepository employeeRepository = new EmployeeRepository();
 
     public List<Employee> getEmployees() {
